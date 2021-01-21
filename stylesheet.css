@@ -16,6 +16,7 @@ height: 1280px;
 }
 
 .class1{
+  width: 300%;
   position: absolute;
   top:500px;
   left:300px;
