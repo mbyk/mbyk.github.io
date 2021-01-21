@@ -3,9 +3,17 @@
 }
 
 body {
-  background-image: url("IMG_0340.JPG"); }
+  background-image: url("サイト背景.JPG");
+  background-repeat: no-repeat;
+}
 
 body {
-width: 1080px;
-height: 2312px;
+width: 500px;
+height: 1280px;
 }
+
+
+
+
+
+720
